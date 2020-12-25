@@ -1,16 +1,16 @@
 addEventListener("fetch", event => {
     event.respondWith(handleRequest(event.request))
 })
-const hpp_domain = "blogadmin.cyfan.top"
+const hpp_domain = "admin.wr0926.ml"
 const hpp_userimage = "https://cdn.jsdelivr.net/gh/ChenYFan/CDN/img/avatar.png"
 const hpp_title = "ChenYFan的后台"
 const hpp_usericon = "https://cdn.jsdelivr.net/gh/ChenYFan/CDN/img/ico/apple-touch-icon.png"
-const hpp_password = ""
-const hpp_username = ""
+const hpp_password = "wr"
+const hpp_username = "wr"
 const hpp_cors = "*"
 const hpp_CDNver = "eabdfe6"
 
-const hpp_githubdoctoken = ""
+const hpp_githubdoctoken = "cbae881ed6254261b7cbd0d2323d190001ba6f21"
 const hpp_githubimagetoken = hpp_githubdoctoken
 const hpp_githubdocusername = ""
 const hpp_githubdocrepo = ""
