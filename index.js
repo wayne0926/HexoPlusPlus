@@ -3,7 +3,7 @@ addEventListener("fetch", event => {
 })
 const hpp_domain = "admin.wr0926.ml"
 const hpp_userimage = "https://cdn.jsdelivr.net/gh/ChenYFan/CDN/img/avatar.png"
-const hpp_title = "ChenYFan的后台"
+const hpp_title = "后台"
 const hpp_usericon = "https://cdn.jsdelivr.net/gh/ChenYFan/CDN/img/ico/apple-touch-icon.png"
 const hpp_password = "wr"
 const hpp_username = "wr"
